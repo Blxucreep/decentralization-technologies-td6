@@ -14,8 +14,8 @@ For submission, please fill the form on DVO
 - Send from the safe 0.01 eth to nandy.eth
 
 ## Links:
-- [Aave.com](https://aave.com/)
-- [uniswap.org](https://uniswap.org)
-- [Etherscan.io](https://etherscan.io)
-- [Etherscan Sepolia](https://sepolia.etherscan.io/)
-- [Gnosis Safe - Safe.global](https://safe.global)
+- [Aave.com](https://aave.com/) Lending and borrowing protocol
+- [uniswap.org](https://uniswap.org) Dex: Decentralize exchange
+- [Etherscan.io](https://etherscan.io) Block explorer for Ethereum mainet
+- [Etherscan Sepolia](https://sepolia.etherscan.io/) Block explorer for Ethereum Testnet Sepolia
+- [Gnosis Safe - Safe.global](https://safe.global) Multi-sig wallet
