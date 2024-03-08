@@ -18,3 +18,4 @@ For submission, please fill the form on DVO
 - [uniswap.org](https://uniswap.org)
 - [Etherscan.io](https://etherscan.io)
 - [Etherscan Sepolia](https://sepolia.etherscan.io/)
+- [Gnosis Safe - Safe.global](https://safe.global)
