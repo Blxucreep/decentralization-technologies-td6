@@ -17,3 +17,4 @@ For submission, please fill the form on DVO
 - [Aave.com](https://aave.com/)
 - [uniswap.org](https://uniswap.org)
 - [Etherscan.io](https://etherscan.io)
+- [Etherscan Sepolia](https://sepolia.etherscan.io/)
