@@ -19,3 +19,5 @@ For submission, please fill the form on DVO
 - [Etherscan.io](https://etherscan.io) Block explorer for Ethereum mainet
 - [Etherscan Sepolia](https://sepolia.etherscan.io/) Block explorer for Ethereum Testnet Sepolia
 - [Gnosis Safe - Safe.global](https://safe.global) Multi-sig wallet
+
+Excel to get your testnet ETH: https://docs.google.com/spreadsheets/d/1m7SLOUitq3EH13NJKnwbLcPmS96-nj2ZVSm_FDK6Tiw/edit?usp=sharing
