@@ -4,7 +4,6 @@ For submission, please fill the form on DVO
 
 ## Instructions:
 
-
 - Send 0.01 eth to vitalik.eth (sepolia testnet)
 - Supply wbtc to Aave Sepolia
 - Borrow EURs
@@ -14,6 +13,7 @@ For submission, please fill the form on DVO
 - Send from the safe 0.01 eth to nandy.eth (sepolia testnet)
 
 ## Links:
+
 - [Aave.com](https://aave.com/) Lending and borrowing protocol
 - [uniswap.org](https://uniswap.org) Dex: Decentralize exchange
 - [Etherscan.io](https://etherscan.io) Block explorer for Ethereum mainet
