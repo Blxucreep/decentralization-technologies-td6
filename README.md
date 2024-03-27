@@ -10,6 +10,7 @@ For submission, please fill the form on DVO
 - Swap using uniswap EURs for usdc
 - Give EURs addresse (give this adresse on the DVO form)
 - Create a safe. You must don't used the sponsor deployment. Your safe must at least have 2 signers : you and and other member of the workshop
+You must **not used sponsor transaction**
 - Send from the safe 0.01 eth to nandy.eth (sepolia testnet)
 
 ## Links:
